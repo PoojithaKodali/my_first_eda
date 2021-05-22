@@ -8,9 +8,11 @@
 ## Data resource
 https://www.kaggle.com/c/titanic
 ## Link to my kaggle notebook
-https://www.kaggle.com/kodalipoojitha/my-eda?scriptVersionId=63545898
+https://www.kaggle.com/kodalipoojitha/my-eda
 ## Theme of our project
 
 To perfrom Exploratory data analysis and to make the data ready for prediction
 ## Articles describing our EDA
 https://poojithakodali5.medium.com/exploratory-data-analysis-511cc5b6a5d8
+## Article describle prediction on titanic data set using Logistic Regression
+https://poojithakodali5.medium.com/exploratory-data-analysis-and-logistic-regression-on-titanic-data-set-354c3e0d553
